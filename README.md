@@ -24,8 +24,8 @@ Run `mvn spring-boot:run` to start the application.
 This should not complete. You should see something similar to
 
 ```
-2017-01-10 00:09:53.731  INFO 18212 --- [           main] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat started on port(s): 8080 (http)
-2017-01-10 00:09:53.738  INFO 18212 --- [           main] application.Application                  : Started Application in 8.792 seconds (JVM running for 12.89)
+...[main] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat started on port(s): 8080 (http)
+...[main] application.Application                  : Started Application in 8.792 seconds (JVM running for 12.89)
 ```
 
 as the last few lines in the console.
