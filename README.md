@@ -30,7 +30,7 @@ This should not complete. You should see something similar to
 
 as the last few lines in the console.
 
-You are ready to go! When you are finished, return to this console and press `CTRL + C`
+You are ready to go! When you are finished, return to this console and press `CTRL+C`
 to exit the application.
 
 Open your favorite method of testing API endpoints and direct requests to localhost:8080/
