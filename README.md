@@ -19,9 +19,9 @@ This should complete with
 [INFO] ------------------------------------------------------------------------
 ```
 
-Run `mvn spring-boot:run`
+Run `mvn spring-boot:run` to start the application. 
 
-to start the application. This should not complete. You should see something similar to
+This should not complete. You should see something similar to
 
 ```
 2017-01-10 00:09:53.731  INFO 18212 --- [           main] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat started on port(s): 8080 (http)
